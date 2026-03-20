@@ -1,7 +1,7 @@
 <h1 align="center">hyourindev</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer based in Japan</strong>
+  <strong>シニアソフトウェアエンジニア ・ 日本在住</strong>
 </p>
 
 <p align="center">
@@ -10,24 +10,26 @@
 
 ---
 
-### About
+### 自己紹介
 
-I build high-performance systems and web applications from Japan. I work across the stack — from low-level systems programming to modern frontends.
+日本に住んでいるシニアソフトウェアエンジニアです。日本のオタク文化、アニメ、漫画が大好きで、その情熱から **[animetana.com](https://animetana.com)** を作りました。Astro、Hono、PostgreSQLで構築したアニメコミュニティプラットフォームです。
 
-### Tech Stack
+低レイヤーのシステムプログラミングからモダンなフロントエンドまで、幅広く開発しています。
+
+### 技術スタック
 
 ```
-Rust       ████████████████████████░░   Systems, CLI tools, performance-critical services
-C          ████████████████████░░░░░░   Embedded, low-level systems
-TypeScript ████████████████████████░░   Full-stack web, APIs, frontends
+Rust       ████████████████████████░░   システム、CLIツール、高性能サービス
+C          ████████████████████░░░░░░   組み込み、低レイヤーシステム
+TypeScript ████████████████████████░░   フルスタックWeb、API、フロントエンド
 ```
 
-### Current Projects
+### プロジェクト
 
-- **[animetana.com](https://animetana.com)** — Anime discovery and community platform
-- More on my [repositories](https://github.com/hyourindev?tab=repositories)
+- **[animetana.com](https://animetana.com)** — Astro + Hono + PostgreSQLで構築したアニメプラットフォーム
+- その他は[リポジトリ一覧](https://github.com/hyourindev?tab=repositories)をご覧ください
 
-### Links
+### リンク
 
 <p>
   <a href="https://animetana.com"><img src="https://img.shields.io/badge/animetana.com-visit-blue?style=for-the-badge" alt="animetana.com" /></a>
