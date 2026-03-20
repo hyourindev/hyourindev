@@ -33,6 +33,7 @@ TypeScript ███████████████████████
 
 <p>
   <a href="https://animetana.com"><img src="https://img.shields.io/badge/animetana.com-visit-blue?style=for-the-badge" alt="animetana.com" /></a>
+  <a href="https://x.com/_hyourin"><img src="https://img.shields.io/badge/X-@__hyourin-000000?style=for-the-badge&logo=x" alt="X" /></a>
   <a href="https://github.com/hyourindev"><img src="https://img.shields.io/badge/GitHub-hyourindev-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
 
